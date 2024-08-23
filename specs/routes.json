@@ -199,13 +199,9 @@
 			"IND-OMA_FEC",
 			"IND-LIM_FEC",
 			"IND-CAF_FEC",
-			"IND-CON_FEC",
-			"IND-OMA_FEC",
-			"IND-CAF_FEC",
-			"IND-FAB_FEC",
+			"IND-FAP_FEC",
 			"IND-MAP_FEC",
-			"IND-NEM_FEC",
-			"IND-MAE_FEC"
+			"IND-NEM_FEC"
 		]
 	},
 	{
