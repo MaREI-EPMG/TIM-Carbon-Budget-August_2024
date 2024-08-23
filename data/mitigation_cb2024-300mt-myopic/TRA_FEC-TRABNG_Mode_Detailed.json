@@ -1,0 +1,27 @@
+{
+  "name": "mitigation_cb2024-300mt-myopic",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-P-BUS",
+      "seriesValues": [
+        [
+          2048,
+          1.00918384932557e-08
+        ],
+        [
+          2051,
+          1.11753634052222e-08
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-CAR",
+      "seriesValues": [
+        [
+          2051,
+          1.01356705601714e-08
+        ]
+      ]
+    }
+  ]
+}
