@@ -36,109 +36,82 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-hires",
+    "name": "mitigation_cb2024-450mt",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-hires",
+        "name": "mitigation_cb2024-450mt",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-300mt-hires",
+    "name": "mitigation_cb2024-300mt-wam",
     "variants": [
       {
-        "name": "mitigation_cb2024-300mt-hires",
+        "name": "mitigation_cb2024-300mt-wam",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-350mt-hires",
+    "name": "mitigation_cb2024-350mt-wam",
     "variants": [
       {
-        "name": "mitigation_cb2024-350mt-hires",
+        "name": "mitigation_cb2024-350mt-wam",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-400mt-hires",
+    "name": "mitigation_cb2024-400mt-wam",
     "variants": [
       {
-        "name": "mitigation_cb2024-400mt-hires",
+        "name": "mitigation_cb2024-400mt-wam",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-300mt-nobio",
+    "name": "mitigation_cb2024-450mt-wam",
     "variants": [
       {
-        "name": "mitigation_cb2024-300mt-nobio",
+        "name": "mitigation_cb2024-450mt-wam",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-350mt-nobio",
+    "name": "mitigation_cb2024-300mt-wem",
     "variants": [
       {
-        "name": "mitigation_cb2024-350mt-nobio",
+        "name": "mitigation_cb2024-300mt-wem",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-nobio",
+    "name": "mitigation_cb2024-350mt-wem",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-nobio",
+        "name": "mitigation_cb2024-350mt-wem",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-400mt-nobio",
+    "name": "mitigation_cb2024-400mt-wem",
     "variants": [
       {
-        "name": "mitigation_cb2024-400mt-nobio",
+        "name": "mitigation_cb2024-400mt-wem",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-300mt-myopic",
+    "name": "mitigation_cb2024-450mt-wem",
     "variants": [
       {
-        "name": "mitigation_cb2024-300mt-myopic",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-350mt-myopic",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-350mt-myopic",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-250mt-myopic",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-250mt-myopic",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-400mt-myopic",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-400mt-myopic",
+        "name": "mitigation_cb2024-450mt-wem",
         "specs": null
       }
     ]
