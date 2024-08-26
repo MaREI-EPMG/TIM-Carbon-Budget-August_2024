@@ -9,109 +9,19 @@
     ]
   },
   {
+    "name": "mitigation_cb2024-250mt-led",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-250mt-led",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "mitigation_cb2024-300mt",
     "variants": [
       {
         "name": "mitigation_cb2024-300mt",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-350mt",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-350mt",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-400mt",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-400mt",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-450mt",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-450mt",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-300mt-wam",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-300mt-wam",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-350mt-wam",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-350mt-wam",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-400mt-wam",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-400mt-wam",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-450mt-wam",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-450mt-wam",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-300mt-wem",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-300mt-wem",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-350mt-wem",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-350mt-wem",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-400mt-wem",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-400mt-wem",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb2024-450mt-wem",
-    "variants": [
-      {
-        "name": "mitigation_cb2024-450mt-wem",
         "specs": null
       }
     ]
@@ -126,6 +36,33 @@
     ]
   },
   {
+    "name": "mitigation_cb2024-300mt-wam",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-300mt-wam",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-300mt-wem",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-300mt-wem",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-350mt",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-350mt",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "mitigation_cb2024-350mt-led",
     "variants": [
       {
@@ -135,10 +72,28 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-led",
+    "name": "mitigation_cb2024-350mt-wam",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-led",
+        "name": "mitigation_cb2024-350mt-wam",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-350mt-wem",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-350mt-wem",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt",
         "specs": null
       }
     ]
@@ -148,6 +103,51 @@
     "variants": [
       {
         "name": "mitigation_cb2024-400mt-led",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt-wam",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt-wam",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt-wem",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt-wem",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-450mt",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-450mt",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-450mt-wam",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-450mt-wam",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-450mt-wem",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-450mt-wem",
         "specs": null
       }
     ]
