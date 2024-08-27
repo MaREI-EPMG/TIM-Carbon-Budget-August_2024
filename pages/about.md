@@ -41,9 +41,9 @@ The carbon budget scenarios include CB1 and CB2, which are implemented for the p
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
   
 ##### TIM Application Papers
-* **Trucks:** V. Aryanpur, F. Rogan, “Decarbonising road freight transport: The role of zero-emission trucks and intangible costs” Scientific Reports, vol. 14, 2024 [Link](https://www.nature.com/articles/s41598-024-52682-4)
+* **Decarbonising Trucks:** V. Aryanpur, F. Rogan, “Decarbonising road freight transport: The role of zero-emission trucks and intangible costs” Nature Scientific Reports, vol. 14, 2024 [Link](https://www.nature.com/articles/s41598-024-52682-4)
 * **District Heating:** J. Mc Guire et al., “Is District Heating a cost-effective solution to decarbonise Irish buildings?” Energy, vol. 296, 2024 [Link](https://www.sciencedirect.com/science/article/pii/S036054422400882X)
-* **Private Cars:** V. Aryanpur et al., “Decarbonisation of passenger light-duty vehicles using spatially resolved TIMES-Ireland Model” Applied Energy, vol. 316, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S0306261922004676)
+* **Decarbonising Private Cars:** V. Aryanpur et al., “Decarbonisation of passenger light-duty vehicles using spatially resolved TIMES-Ireland Model” Applied Energy, vol. 316, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S0306261922004676)
 * **Low Energy Demand:** A. Gaur et al., “Low energy demand scenario for feasible deep decarbonisation: Whole energy systems modelling for Ireland” Renewable Sustainable Energy Transition, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2667095X22000083)
 * **Residential Sector:** J. Mc Guire et al., “Developing decarbonisation pathways in changing TIMES for Irish homes” Energy Strategy Reviews, vol. 47, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2211467X23000366)
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
