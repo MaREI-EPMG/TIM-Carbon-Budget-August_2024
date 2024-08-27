@@ -30,6 +30,7 @@ The figure below shows the CB allocations for various scenarios. In the 250Mt sc
 #### CORE SCENARIOS
 These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". Moreover, a maximum allowable carbon budget of 275 million tonnes for the period from 2021 to 2030 is also considered in the core scenarios.
 
+##### OTHER SCENARIOS
 * **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*250Mt-LED*". For the detailed assumptions of LED scenarios see [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
 
 * **WAM** & **WEM**: Emissions projections from the EPA are used as the lower bound for emissions in the pre-2030 period. However, the overall CBs remain set for the 2021-2050 period, using BaU energy demand projections. For example, "*350Mt-WEM*" indicates an overall carbon budget of 350 million tonnes for 2021 to 2050 and 310 million tonnes for 2021 to 2030.
