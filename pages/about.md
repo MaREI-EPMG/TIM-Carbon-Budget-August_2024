@@ -16,7 +16,7 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based o
 
 Carbon budget allocations are as follows:
 
-![image](https://github.com/MaREI-EPMG/TIM-Carbon-Budget-2024/assets/72862177/4d40a565-c86e-412b-911d-d5f0d0a75cba)
+![Carbon budget](https://github.com/user-attachments/assets/1f9c98a1-9252-443d-9b3d-22f9e197943b)
 
 ##### CORE SCENARIOS
 The carbon budget scenarios include CB1 and CB2, which are implemented for the periods 2021 to 2025 and 2026 to 2030, respectively. These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*Mitigation 250 mt*".
