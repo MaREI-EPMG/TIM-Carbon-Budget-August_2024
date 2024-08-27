@@ -27,19 +27,19 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-myopic",
+    "name": "mitigation_cb2024-250mt-wem",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-myopic",
+        "name": "mitigation_cb2024-250mt-wem",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-wem",
+    "name": "mitigation_cb2024-250mt-myopic",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-wem",
+        "name": "mitigation_cb2024-250mt-myopic",
         "specs": null
       }
     ]
