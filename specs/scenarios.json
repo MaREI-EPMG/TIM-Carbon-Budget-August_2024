@@ -36,10 +36,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-myopic",
+    "name": "mitigation_cb2024-250mt-nobio",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-myopic",
+        "name": "mitigation_cb2024-250mt-nobio",
         "specs": null
       }
     ]
@@ -81,10 +81,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-300mt-myopic",
+    "name": "mitigation_cb2024-300mt-nobio",
     "variants": [
       {
-        "name": "mitigation_cb2024-300mt-myopic",
+        "name": "mitigation_cb2024-300mt-nobio",
         "specs": null
       }
     ]
@@ -126,10 +126,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-350mt-myopic",
+    "name": "mitigation_cb2024-350mt-nobio",
     "variants": [
       {
-        "name": "mitigation_cb2024-350mt-myopic",
+        "name": "mitigation_cb2024-350mt-nobio",
         "specs": null
       }
     ]
@@ -171,10 +171,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-400mt-myopic",
+    "name": "mitigation_cb2024-400mt-nobio",
     "variants": [
       {
-        "name": "mitigation_cb2024-400mt-myopic",
+        "name": "mitigation_cb2024-400mt-nobio",
         "specs": null
       }
     ]
