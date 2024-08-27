@@ -18,8 +18,7 @@ Carbon budget allocations are as follows:
 
 <img src="https://github.com/user-attachments/assets/1f9c98a1-9252-443d-9b3d-22f9e197943b" alt="Carbon budget" width="600" />
 
-
-##### CORE SCENARIOS
+#### CORE SCENARIOS
 The carbon budget scenarios include CB1 and CB2, which are implemented for the periods 2021 to 2025 and 2026 to 2030, respectively. These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*Mitigation 250 mt*".
 
 ##### OTHER SCENARIOS
