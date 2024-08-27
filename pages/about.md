@@ -16,16 +16,15 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based o
 
 The TIM scenarios incorporate two types of carbon budget constraints for different periods:
 
-**(1) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. The specified amount reflects the limits in scenario names. For example, the *Mitigation 350 Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
+**(1) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. This constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all scenarios.
 
-**(2) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. This constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub>.
+**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. The specified amount reflects the limits in scenario names. For example, the *Mitigation 350 Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
 
-Carbon budget allocations are as follows:
+The figure below shows the CB allocations for various scenarios. In the 250 Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. This reflects the model's ability to offset excess emissions after 2030 by using negative emissions technologies, such as Bioenergy with Carbon Capture and Storage (BECCS).
 
-<img src="https://github.com/user-attachments/assets/1763a8ac-4ba8-4a76-b34a-7e8224c92ce4" alt="Carbon budget1" width="600" />
+<img src="https://github.com/user-attachments/assets/cd803682-1416-46f3-a125-244ed2d3c69f" alt="Carbon budget2" width="600" />
 
 &nbsp;
-
 
 
 #### CORE SCENARIOS
