@@ -17,7 +17,9 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based o
 Carbon budget allocations are as follows:
 
 <img src="https://github.com/user-attachments/assets/1763a8ac-4ba8-4a76-b34a-7e8224c92ce4" alt="Carbon budget1" width="600" />
+
 &nbsp;
+
 
 
 #### CORE SCENARIOS
