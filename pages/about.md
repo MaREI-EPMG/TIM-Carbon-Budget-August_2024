@@ -16,31 +16,25 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based o
 
 The TIM scenarios incorporate two types of carbon budget constraints for different periods:
 
-**(1) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. This constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all scenarios.
+**(1) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. In core scenarios, this constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all scenarios.
 
-**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. The specified amount reflects the limits in scenario names. For example, the *Mitigation 350 Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
+**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. The specified amount reflects the limits in scenario names. For example, the *350Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
 
-The figure below shows the CB allocations for various scenarios. In the 250 Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. This reflects the model's ability to offset excess emissions after 2030 by using negative emissions technologies, such as Bioenergy with Carbon Capture and Storage (BECCS).
+The figure below shows the CB allocations for various scenarios. In the 250Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. This reflects the model's ability to offset excess emissions after 2030 by using negative emissions technologies, such as Bioenergy with Carbon Capture and Storage (BECCS). Additionally, to analyse the With Existing Measures (WEM) and With Additional Measures (WAM) scenarios, two other emissions levels for the period from 2021 to 2030 are considered, with carbon budgets of 310 Mt and 325 Mt, respectively.
 
-<img src="https://github.com/user-attachments/assets/cd803682-1416-46f3-a125-244ed2d3c69f" alt="Carbon budget2" width="600" />
+<img src="https://github.com/user-attachments/assets/d20c25e9-99cd-4945-8790-0d44f936dd10" alt="Carbon budget3" width="600" />
 
 &nbsp;
 
 
 #### CORE SCENARIOS
-The carbon budget scenarios include CB1 and CB2, which are implemented for the periods 2021 to 2025 and 2026 to 2030, respectively. These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*Mitigation 250 mt*".
+These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". Moreover, a maximum allowable carbon budget of 275 million tonnes for the period from 2021 to 2030 is also considered in the core scenarios.
 
-##### OTHER SCENARIOS
+* **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*250Mt-LED*". For the detailed assumptions of LED scenarios see [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
 
-* **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*Mitigation 250 mt-LED*". For the detailed assumptions of LED scenarios see [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
+* **WAM** & **WEM**: Emissions projections from the EPA are used as the lower bound for emissions in the pre-2030 period. However, the overall CBs remain set for the 2021-2050 period, using BaU energy demand projections. For example, "*350Mt-WEM*" indicates an overall carbon budget of 350 million tonnes for 2021 to 2050 and 310 million tonnes for 2021 to 2030.
 
-* **WAM** and **WEM**: Emissions projections from the EPA are used as the lower bound for emissions in the 2024-2030 period, instead of CB1 and CB2. However, the overall CBs remain set for the 2021-2050 period, using BaU energy demand projections such as "*Mitigation 250 mt-wam*" and "*Mitigation 250 mt-wem*"
-
-* **High solar**: This scenario group considers higher solar PV adoption within the core scenarios, such as "*Mitigation 250 mt-high solar*"
-
-* **No bio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*Mitigation 250 mt-nobio*"
-
-* **Myopic**: This experimental scenario group represents situations where the model lacks complete information about techno-economic developments in the energy system, such as future cost changes, energy efficiency improvements, or the availability of new technologies. Instead of projecting over the entire time horizon, the model operates in shorter time steps. In the current setup, the model runs for carbon budget scenarios using 15-year time steps, with a 5-year overlap between each step. It is indicated in scenario names, such as "*Mitigation 250 mt-myopic 15-year step*"
+* **LowBio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*250Mt-LowBio*"
 
 ##### TIM Documentation Paper
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
