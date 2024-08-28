@@ -1,33 +1,46 @@
 #### CARBON BUDGET ANALYSIS WITH THE TIMES-IRELAND MODEL (TIM)
 
 ##### Third iteration of modelling to support CCAC CBWG<br><br>
-##### SCENARIO ASSUMPTIONS
-Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based on the IPCC assessment of the global Remaining Carbon Budget (RCB). The analysis focuses on the RCBs aligned with 1.5°C to 2°C of global warming with different probabilities. These CBs for Ireland are as follows:
 
-* 450Mt aligned with 67% likelihood of limiting global warming to 2.0°C (IPCC AR6 1150Gt CO<sub>2</sub> RCB)
+###### Background
+UCC’s Energy Policy and Modelling Group (EPMG) is supporting the Climate Change Advisory Council (CCAC) as part of the Carbon Budgets Working Group (CBWG) in the Council’s statutory role of making recommendations to Government for carbon budgets 3 (covering 2031-35) and carbon budget 4 (2034-40), by the end of 2024. The CBWG is tasked with developing an evidence base for the Council’s carbon budget proposals, including the provision of modelling and analytical support. 
 
-* 400Mt aligned with 1.7°C (33%) (IPCC AR6 1050Gt CO<sub>2</sub> RCB)
+As part of this process, the EPMG is modelling future potential pathways for Ireland’s energy system consistent with different levels of decarbonisation ambition, covering energy supply, electricity, transport, buildings and industry. The purpose of these scenarios is to indicate the pace and depth of change across the energy system necessary to meet different levels of mitigation ambition, including the timing of introducing new technologies, indicating the reliance on speculative technologies, and the role of energy demand reduction. 
 
-* 350Mt aligned with 1.5°C (17%) and 2.0°C (83%) (IPCC AR6 900Gt CO<sub>2</sub> RCB)
+The EPMG has already produced two modelling iterations in December 2023 and June 2024, and has undertaken rounds of stakeholder engagement, and adopted feedback from the CCAC following each iteration. 
 
-* 300Mt aligned with 1.7°C (50%) (IPCC AR6 850Gt CO<sub>2</sub> RCB)
+This webpage includes detailed results for the final iteration of modelled scenarios, presented to the CBWG in August 2024. A detailed accompanying technical report will be submitted to the CCAC by October 2024, and will be published by the CCAC. 
 
-* 250Mt aligned with 1.5°C (33%) and 1.7°C (67%) (IPCC AR6 650-700Gt CO<sub>2</sub> RCB)
+###### SCENARIO ASSUMPTIONS
 
 The TIM scenarios incorporate two types of carbon budget constraints for different periods:
 
 **(1) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. In core scenarios, this constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all scenarios.
 
-**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. The specified amount reflects the limits in scenario names. For example, the *350Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
+**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. 
 
-The figure below shows the CB allocations for various scenarios. In the 250Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. This reflects the model's ability to offset excess emissions after 2030 by using negative emissions technologies, such as Bioenergy with Carbon Capture and Storage (BECCS). Additionally, to analyse the With Existing Measures (WEM) and With Additional Measures (WAM) scenarios, two other emissions levels for the period from 2021 to 2030 are considered, with carbon budgets of 310 Mt and 325 Mt, respectively.
+Five different Carbon Budgets (CB) for the period 2021-2050 are modelled.
+
+* 450Mt CO<sub>2</sub> 
+
+* 400Mt CO<sub>2</sub> 
+
+* 350Mt CO<sub>2</sub> 
+
+* 300Mt CO<sub>2</sub> 
+
+* 250Mt CO<sub>2</sub>
+
+The specified amount reflects the limits in scenario names. For example, the *350Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
+
+The figure below shows the CB allocations for various scenarios. In the 250Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. The model has limited ability to counterbalance emissions with a negative emissions technology, Bioenergy with Carbon Capture and Storage (BECCS). If in a given scenario the model cannot deliver a given carbon budget considering all constraints, then a "backstop" negative emissions technology is deployed, at a cost of €2000 per tonne of CO<sub>2</sub>. 
 
 <img src="https://github.com/user-attachments/assets/d20c25e9-99cd-4945-8790-0d44f936dd10" alt="Carbon budget3" width="600" />
 
 &nbsp;
 
 
-#### CORE SCENARIOS
+##### CORE SCENARIOS
 These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". Moreover, a maximum allowable carbon budget of 275 million tonnes for the period from 2021 to 2030 is also considered in the core scenarios.
 
 ##### OTHER SCENARIOS
@@ -36,8 +49,6 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * **WAM** & **WEM**: Emissions projections from the EPA are used as the lower bound for emissions in the pre-2030 period. However, the overall CBs remain set for the 2021-2050 period, using BaU energy demand projections. For example, "*350Mt-WEM*" indicates an overall carbon budget of 350 million tonnes for 2021 to 2050 and 310 million tonnes for 2021 to 2030.
 
 * **LowBio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*250Mt-LowBio*"
-
-* **HighSolarPV**: In this scenario, the model allows significant adoption of solar PV, with the maximum allowable capacity rising from 10GW in the core scenarios to 18GW.
 
 ##### TIM Documentation Paper
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
@@ -50,4 +61,5 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * **Residential Sector:** J. Mc Guire et al., “Developing decarbonisation pathways in changing TIMES for Irish homes” Energy Strategy Reviews, vol. 47, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2211467X23000366)
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
 
-
+##### ACKNOWLEDGEMENTS
+We acknowledge and are grateful for the contributions of past and current members of UCC’s Energy Policy and Modelling Group, particularly those who contributed to the development of TIM and its predecessor, the TIMES-Ireland Model. We are also thankful to the CCAC and members of the CBWG, particularly SEAI’s energy modelling team and Prof. John FitzGerald, for constructive feedback on previous iterations of this research. This research was part-funded by the Department of Environment, Climate and Communications through the CAPACITY project. 
