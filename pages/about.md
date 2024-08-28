@@ -37,6 +37,8 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 
 * **LowBio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*250Mt-LowBio*"
 
+* **HighSolarPV**: In this scenario, the model allows significant adoption of solar PV, with the maximum allowable capacity rising from 10GW in the core scenarios to 18GW.
+
 ##### TIM Documentation Paper
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
   
