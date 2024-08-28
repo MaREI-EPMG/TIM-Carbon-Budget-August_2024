@@ -45,6 +45,15 @@
     ]
   },
   {
+    "name": "mitigation_cb2024-250mt-hires",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-250mt-hires",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "mitigation_cb2024-300mt",
     "variants": [
       {
@@ -85,6 +94,15 @@
     "variants": [
       {
         "name": "mitigation_cb2024-300mt-nobio",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-300mt-hires",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-300mt-hires",
         "specs": null
       }
     ]
@@ -135,6 +153,15 @@
     ]
   },
   {
+    "name": "mitigation_cb2024-350mt-hires",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-350mt-hires",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "mitigation_cb2024-400mt",
     "variants": [
       {
@@ -175,6 +202,15 @@
     "variants": [
       {
         "name": "mitigation_cb2024-400mt-nobio",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt-hires",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt-hires",
         "specs": null
       }
     ]
