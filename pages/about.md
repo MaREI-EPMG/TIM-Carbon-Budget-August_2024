@@ -15,9 +15,7 @@ This webpage includes detailed results for the final iteration of modelled scena
 
 The TIM scenarios incorporate two types of carbon budget constraints for different periods:
 
-**(1) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. In core scenarios, this constraint is based on Sectoral Emissions Ceilings (SECs) as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all scenarios.
-
-**(2) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. 
+**(1) CB 2021-2050**: This is the overall carbon budget constraint that sets the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2050. 
 
 Five different Carbon Budgets (CB) for the period 2021-2050 are modelled.
 
@@ -33,7 +31,9 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled.
 
 The specified amount reflects the limits in scenario names. For example, the *350Mt* scenario assumes a maximum of 350 million tonnes of CO<sub>2</sub> emissions from energy systems from 2021 to 2050.
 
-The figure below shows the CB allocations for various scenarios. In the 250Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. The model has limited ability to counterbalance emissions with a negative emissions technology, Bioenergy with Carbon Capture and Storage (BECCS). If in a given scenario the model cannot deliver a given carbon budget considering all constraints, then a "backstop" negative emissions technology is deployed, at a cost of €2000 per tonne of CO<sub>2</sub>. 
+**(2) CB 2021-2030**: This budget represents the maximum allowable CO<sub>2</sub> emissions from energy systems for the period 2021 to 2030. In core scenarios, it is assumed that Sectoral Emissions Ceilings (SECs) are met, as outlined in the [Table 3.2 Climate Action Plan](https://www.gov.ie/pdf/?file=https://assets.gov.ie/296414/7a06bae1-4c1c-4cdc-ac36-978e3119362e.pdf#page=null). The total SECs for the periods 2021-2025 and 2026-2030 have a maximum limit of 275 Mt of CO<sub>2</sub> and is fixed across all carbon budget scenarios, apart from WEM and WAM scenarios. In these scenarios, it is assumed that there is an overshoot of the SECs in the period to 2030 according to the emissions as projected by the Environmental Protection Agency, under current and planned policies. 
+
+The figure below shows the CB allocations for various scenarios. In the 250Mt scenario, the CB allocated for 2021-2030 is greater than the total budget for the entire period from 2021 to 2050. The model has limited ability to counterbalance emissions with a negative emissions technology, Bioenergy with Carbon Capture and Storage (BECCS). If in a given scenario the model cannot deliver a given carbon budget considering all the constraints applied, then a "backstop" negative emissions technology is deployed, at a cost of €2000 per tonne of CO<sub>2</sub>. 
 
 <img src="https://github.com/user-attachments/assets/d20c25e9-99cd-4945-8790-0d44f936dd10" alt="Carbon budget3" width="600" />
 
@@ -41,12 +41,13 @@ The figure below shows the CB allocations for various scenarios. In the 250Mt sc
 
 
 ##### CORE SCENARIOS
-These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". Moreover, a maximum allowable carbon budget of 275 million tonnes for the period from 2021 to 2030 is also considered in the core scenarios.
+These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". 
 
 ##### OTHER SCENARIOS
-* **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*250Mt-LED*". For the detailed assumptions of LED scenarios see [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
+* **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*250Mt-LED*". For the detailed assumptions of LED scenarios see Gaur et. al (2022) [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
 
-* **WAM** & **WEM**: Emissions projections from the EPA are used as the lower bound for emissions in the pre-2030 period. However, the overall CBs remain set for the 2021-2050 period, using BaU energy demand projections. For example, "*350Mt-WEM*" indicates an overall carbon budget of 350 million tonnes for 2021 to 2050 and 310 million tonnes for 2021 to 2030.
+* **WAM** & **WEM**: In these scenarios, emissions projections from the Environmental Protection Agency are used as the lower bound for emissions in the pre-2030 period.
+* However, the overall CBs remain the same for the 2021-2050 period, using BaU energy demand projections. For example, "*350Mt-WEM*" indicates an overall carbon budget of 350 million tonnes for 2021 to 2050 and 310 million tonnes for 2021 to 2030.
 
 * **LowBio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*250Mt-LowBio*"
 
