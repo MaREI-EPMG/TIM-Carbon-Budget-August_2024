@@ -1,8 +1,8 @@
-#### CARBON BUDGET ANALYSIS WITH THE TIMES-IRELAND MODEL (TIM)
+# CARBON BUDGET ANALYSIS WITH THE TIMES-IRELAND MODEL (TIM)
 
-##### Third iteration of modelling to support CCAC CBWG<br><br>
+## Third iteration of modelling to support CCAC Carbon Budgets Working Group <br><br>
 
-###### Background
+### Background
 UCC’s Energy Policy and Modelling Group (EPMG) is supporting the Climate Change Advisory Council (CCAC) as part of the Carbon Budgets Working Group (CBWG) in the Council’s statutory role of making recommendations to Government for carbon budgets 3 (covering 2031-35) and carbon budget 4 (2034-40), by the end of 2024. The CBWG is tasked with developing an evidence base for the Council’s carbon budget proposals, including the provision of modelling and analytical support. 
 
 As part of this process, the EPMG is modelling future potential pathways for Ireland’s energy system consistent with different levels of decarbonisation ambition, covering energy supply, electricity, transport, buildings and industry. The purpose of these scenarios is to indicate the pace and depth of change across the energy system necessary to meet different levels of mitigation ambition, including the timing of introducing new technologies, indicating the reliance on speculative technologies, and the role of energy demand reduction. 
@@ -11,7 +11,7 @@ The EPMG has already produced two modelling iterations in December 2023 and June
 
 This webpage includes detailed results for the final iteration of modelled scenarios, presented to the CBWG in August 2024. A detailed accompanying technical report will be submitted to the CCAC by October 2024, and will be published by the CCAC. 
 
-###### SCENARIO ASSUMPTIONS
+### Scenario assumptions
 
 The TIM scenarios incorporate two types of carbon budget constraints for different periods:
 
@@ -40,10 +40,10 @@ The figure below shows the CB allocations for various scenarios. In the 250Mt sc
 &nbsp;
 
 
-##### CORE SCENARIOS
+#### Core scenarios
 These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 2021 to 2050. All five CB scenarios are modeled using a business-as-usual (BAU) demand projection and do not have a suffix, such as "*250Mt*". 
 
-##### OTHER SCENARIOS
+#### Other scenarios
 * **Low Energy Demand (LED)**: Four of the lower CBs are modelled using a LED projection. They have LED suffixes such as "*250Mt-LED*". For the detailed assumptions of LED scenarios see Gaur et. al (2022) [Article](https://www.sciencedirect.com/science/article/pii/S2667095X22000083).
 
 * **WAM** & **WEM**: In these scenarios, emissions projections from the Environmental Protection Agency are used as the lower bound for emissions in the pre-2030 period.
@@ -51,6 +51,7 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 
 * **LowBio**: This scenario group restricts biomass imports to current levels and no increase is allowed beyond the existing import levels, such as "*250Mt-LowBio*"
 
+### References
 ##### TIM Documentation Paper
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
   
@@ -62,5 +63,5 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * **Residential Sector:** J. Mc Guire et al., “Developing decarbonisation pathways in changing TIMES for Irish homes” Energy Strategy Reviews, vol. 47, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2211467X23000366)
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
 
-##### ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
 We acknowledge and are grateful for the contributions of past and current members of UCC’s Energy Policy and Modelling Group, particularly those who contributed to the development of TIM and its predecessor, the TIMES-Ireland Model. We are also thankful to the CCAC and members of the CBWG, particularly SEAI’s energy modelling team and Prof. John FitzGerald, for constructive feedback on previous iterations of this research. This research was part-funded by the Department of Environment, Climate and Communications through the CAPACITY project. 
