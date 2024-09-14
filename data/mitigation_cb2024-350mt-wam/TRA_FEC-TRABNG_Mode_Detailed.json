@@ -2,22 +2,10 @@
   "name": "mitigation_cb2024-350mt-wam",
   "data": [
     {
-      "seriesName": "DMD_TRA-P-BUS",
+      "seriesName": "DMD_TRA-F-HTRUCK",
       "seriesValues": [
         [
-          2048,
-          0.0
-        ],
-        [
-          2049,
-          0.0
-        ],
-        [
-          2050,
-          0.0
-        ],
-        [
-          2051,
+          2026,
           0.0
         ]
       ]
