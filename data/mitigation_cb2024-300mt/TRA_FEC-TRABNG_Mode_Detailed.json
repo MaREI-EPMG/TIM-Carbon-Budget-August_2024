@@ -126,6 +126,10 @@
       "seriesName": "DMD_TRA-P-BUS",
       "seriesValues": [
         [
+          2023,
+          0.0
+        ],
+        [
           2024,
           0.0
         ],
@@ -355,6 +359,14 @@
     {
       "seriesName": "DMD_TRA-F-LTRUCK",
       "seriesValues": [
+        [
+          2025,
+          0.0
+        ],
+        [
+          2026,
+          0.0
+        ],
         [
           2027,
           0.0
