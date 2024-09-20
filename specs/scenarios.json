@@ -258,5 +258,14 @@
         "specs": null
       }
     ]
+  },
+  {
+    "name": "bau",
+    "variants": [
+      {
+        "name": "bau",
+        "specs": null
+      }
+    ]
   }
 ]

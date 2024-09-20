@@ -27,7 +27,8 @@
   "mitigation_cb2024-450mt-wam": "450Mt-WAM",
   "mitigation_cb2024-450mt-wem": "450Mt-WEM",
   "bau-wam": "BaU WAM2050",
-  "bau-wem": "BaU WEM2050"
+  "bau-wem": "BaU WEM2050",
+  "bau": "BaU - nomitigation"
 
    
 }
