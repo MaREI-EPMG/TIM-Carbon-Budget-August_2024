@@ -1,0 +1,23 @@
+{
+  "name": "bau-wam",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-R-AVIDOM",
+      "seriesValues": [
+        [
+          2022,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-R-AVIINT",
+      "seriesValues": [
+        [
+          2022,
+          2.72698124227563
+        ]
+      ]
+    }
+  ]
+}
