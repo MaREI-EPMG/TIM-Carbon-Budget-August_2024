@@ -241,7 +241,8 @@
         "specs": null
       }
     ]
-  },{
+  },
+  {
     "name": "bau-wem",
     "variants": [
       {
@@ -255,6 +256,24 @@
     "variants": [
       {
         "name": "bau-wam",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "bau-wem-fx",
+    "variants": [
+      {
+        "name": "bau-wem-fx",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "bau-wam-fx",
+    "variants": [
+      {
+        "name": "bau-wam-fx",
         "specs": null
       }
     ]
