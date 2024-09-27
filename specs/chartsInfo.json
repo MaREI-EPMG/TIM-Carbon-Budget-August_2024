@@ -32,7 +32,6 @@
       "PWRCO2N",
       "RSDCO2",
       "SRVCO2N",
-      "TRACO2INT",
       "TRACO2N"
     ],
     "colorScale": [
@@ -42,7 +41,6 @@
       "#E4592B",
       "#39A838",
       "#86AC0F",
-      "#A020F0",
       "#D99C2B"
     ],
     "unit": "kt"
@@ -55,7 +53,6 @@
       "PWRCO2N",
       "RSDCO2",
       "SRVCO2N",
-      "TRACO2INT",
       "TRACO2N"
     ],
     "colorScale": [
@@ -65,7 +62,6 @@
       "#E4592B",
       "#39A838",
       "#86AC0F",
-      "#A020F0",
       "#D99C2B"
     ],
     "unit": "kt"
