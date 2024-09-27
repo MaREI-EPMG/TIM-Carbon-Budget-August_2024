@@ -243,24 +243,6 @@
     ]
   },
   {
-    "name": "bau-wem",
-    "variants": [
-      {
-        "name": "bau-wem",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "bau-wam",
-    "variants": [
-      {
-        "name": "bau-wam",
-        "specs": null
-      }
-    ]
-  },
-  {
     "name": "bau-wem-fx",
     "variants": [
       {

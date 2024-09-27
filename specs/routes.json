@@ -160,14 +160,6 @@
 				]
 			},
 			{
-				"path": "new-heating",
-				"charts": [
-					"RSD_WS-APT_NCAP",
-					"RSD_WS-ATT_NCAP",
-					"RSD_WS-DET_NCAP"
-				]
-			},
-			{
 				"path": "house-stock",
 				"charts": [
 					"RSD_BLD_TYPE",

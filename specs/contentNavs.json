@@ -54,7 +54,6 @@
         "text": "Final energy consumption"
       },
       { "to": "retrofits", "text": "Retrofits" },
-      { "to": "new-heating", "text": "New heating by type" },
       { "to": "house-stock", "text": "House stock" }
     ],
     "variant": "underscore"
