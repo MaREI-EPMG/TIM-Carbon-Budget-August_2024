@@ -58,12 +58,16 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
   
 ##### TIM Application Papers
+* **Accelerated vs Delayed Climate Action:** V. Aryanpur et al., “Implications of accelerated and delayed climate action for Ireland’s energy transition under carbon budgets” Nature Portfolio, npj Climate Action, vol. 3, 2024 [Link](https://www.nature.com/articles/s44168-024-00181-7)
 * **Decarbonising Trucks:** V. Aryanpur, F. Rogan, “Decarbonising road freight transport: The role of zero-emission trucks and intangible costs” Nature Scientific Reports, vol. 14, 2024 [Link](https://www.nature.com/articles/s41598-024-52682-4)
 * **District Heating:** J. Mc Guire et al., “Is District Heating a cost-effective solution to decarbonise Irish buildings?” Energy, vol. 296, 2024 [Link](https://www.sciencedirect.com/science/article/pii/S036054422400882X)
 * **Decarbonising Private Cars:** V. Aryanpur et al., “Decarbonisation of passenger light-duty vehicles using spatially resolved TIMES-Ireland Model” Applied Energy, vol. 316, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S0306261922004676)
 * **Low Energy Demand:** A. Gaur et al., “Low energy demand scenario for feasible deep decarbonisation: Whole energy systems modelling for Ireland” Renewable Sustainable Energy Transition, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2667095X22000083)
 * **Residential Sector:** J. Mc Guire et al., “Developing decarbonisation pathways in changing TIMES for Irish homes” Energy Strategy Reviews, vol. 47, 2022 [Link](https://www.sciencedirect.com/science/article/pii/S2211467X23000366)
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
+
+### Model and Data Availability
+The data used in this research are publicly available on GitHub [link](https://github.com/MaREI-EPMG/times-ireland-model/tree/v1.0.3) and archived on Zenodo [link](https://zenodo.org/records/13497444):
 
 ### ACKNOWLEDGEMENTS
 We acknowledge and are grateful for the contributions of past and current members of UCC’s Energy Policy and Modelling Group, particularly those who contributed to the development of TIM and its predecessor, the TIMES-Ireland Model. We are also thankful to the CCAC and members of the CBWG, particularly SEAI’s energy modelling team and Prof. John FitzGerald, for constructive feedback on previous iterations of this research. This research was part-funded by the Department of Environment, Climate and Communications through the CAPACITY project. 
