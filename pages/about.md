@@ -9,7 +9,7 @@ As part of this process, the EPMG is modelling future potential pathways for Ire
 
 The EPMG has already produced two modelling iterations in December 2023 and June 2024, and has undertaken rounds of stakeholder engagement, and adopted feedback from the CCAC following each iteration. 
 
-This webpage includes detailed results for the final iteration of modelled scenarios, presented to the CBWG in August 2024. A detailed accompanying technical report will be submitted to the CCAC by October 2024, and will be published by the CCAC. 
+This webpage includes detailed results for the final iteration of modelled scenarios, presented to the CBWG in August 2024. A detailed accompanying technical report was submitted to the CCAC in October 2024 and was published by the CCAC ([link](https://www.climatecouncil.ie/media/CBWG%20Report%20TIMES-Ireland%20Model.pdf)) along with its full carbon budget recommendations in December 2024 ([link](https://www.climatecouncil.ie/carbonbudgets/carbonbudgetproposal2031-2040/)). 
 
 ### Scenario assumptions
 
@@ -67,7 +67,7 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
 
 ### Model and Data Availability
-The data used in this research are publicly available on GitHub [link](https://github.com/MaREI-EPMG/times-ireland-model/tree/v1.1.0) and archived on Zenodo [link](https://zenodo.org/records/14337533):
+The model and all underpinning data used in this research are publicly available on GitHub [link](https://github.com/MaREI-EPMG/times-ireland-model/tree/v1.1.0), and a complete archive of all output tables from this webpage are available to download in CSV form on Zenodo [link](https://zenodo.org/records/14337533):
 
 ### ACKNOWLEDGEMENTS
 We acknowledge and are grateful for the contributions of past and current members of UCC’s Energy Policy and Modelling Group, particularly those who contributed to the development of TIM and its predecessor, the TIMES-Ireland Model. We are also thankful to the CCAC and members of the CBWG, particularly SEAI’s energy modelling team and Prof. John FitzGerald, for constructive feedback on previous iterations of this research. This research was part-funded by the Department of Environment, Climate and Communications through the CAPACITY project. 
