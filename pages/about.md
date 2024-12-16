@@ -67,7 +67,7 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 * **Power Sector:** X. Yue et al., “Least cost energy system pathways towards 100% renewable energy in Ireland by 2050” Energy, vol. 207, 2020 [Link](https://www.sciencedirect.com/science/article/pii/S0360544220313712)
 
 ### Model and Data Availability
-The data used in this research are publicly available on GitHub [link](https://github.com/MaREI-EPMG/times-ireland-model/tree/v1.0.3) and archived on Zenodo [link](https://zenodo.org/records/14337533):
+The data used in this research are publicly available on GitHub [link](https://github.com/MaREI-EPMG/times-ireland-model/tree/v1.1.0) and archived on Zenodo [link](https://zenodo.org/records/14337533):
 
 ### ACKNOWLEDGEMENTS
 We acknowledge and are grateful for the contributions of past and current members of UCC’s Energy Policy and Modelling Group, particularly those who contributed to the development of TIM and its predecessor, the TIMES-Ireland Model. We are also thankful to the CCAC and members of the CBWG, particularly SEAI’s energy modelling team and Prof. John FitzGerald, for constructive feedback on previous iterations of this research. This research was part-funded by the Department of Environment, Climate and Communications through the CAPACITY project. 
