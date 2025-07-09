@@ -268,5 +268,14 @@
         "specs": null
       }
     ]
+  },
+  {
+    "name": "mitigation_cb2024_weighted_avg",
+    "variants": [
+      {
+        "name": "mitigation_cb2024_weighted_avg",
+        "specs": null
+      }
+    ]
   }
 ]

@@ -28,7 +28,8 @@
   "mitigation_cb2024-450mt-wem": "450Mt-WEM",
   "bau-wam-fx": "BaU-WAM2050",
   "bau-wem-fx": "BaU-WEM2050",
-  "bau": "BaU-nomitigation"
+  "bau": "BaU-nomitigation",
+  "mitigation_cb2024_weighted_avg": "Weighted average scenario"
 
    
 }
