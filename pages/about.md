@@ -53,6 +53,8 @@ These scenarios have an overall carbon budget of 250Mt to 450Mt applied from 202
 
 * **HighSolarPV**: This scenario significantly increases solar PV adoption, with the maximum allowable capacity rising from 10GW in the core scenarios to 18GW.
 
+* **Weighted average scenario**: This scenario represents an energy sector pathway consistent with carbon budgets (approved and legally adopted to 2030 and proposed to 2040). It is a composite scenario constructed by averaging energy sector trajectories across the fifteen shortlisted scenarios in the CCAC's Carbon Budget Proposal Report, which informed the proposed third and fourth carbon budgets. It reflects a weighted average of the 300Mt, 300Mt-LED, 300Mt-LowBio, 350Mt, 350Mt-LED, 350Mt-LowBio scenarios, weighted according to their frequency in the shortlist.
+
 ### References
 ##### TIM Documentation Paper
 * O. Balyk et al., “TIM: Modelling pathways to meet Ireland’s long-term energy system challenges with the TIMES-Ireland Model (v1.0)” Geoscientific Model Development, vol. 15, 2022 [Link](https://gmd.copernicus.org/articles/15/4991/2022/)
